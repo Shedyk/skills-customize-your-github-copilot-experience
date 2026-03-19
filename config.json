@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "java-text-processing",
+      "title": "Java Text Processing",
+      "description": "String manipulation, file I/O, and text processing in Java",
+      "path": "assignments/java-text-processing",
+      "dueDate": "2026-03-26",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.java",
+          "type": "java"
+        }
+      ]
     }
   ]
 }
